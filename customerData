@@ -1,0 +1,46 @@
+{
+
+    "data" : [
+            {
+                "id": "1",
+                "name": "Lourdes Browning",
+                "email": "loulou@example.com",
+                "subject": "Science",
+                "grade": "92%",
+                "contact": 9826374833            
+              },
+              {
+                "id": "2",
+                "name": "Sophie Louise Hart",
+                "email": "sophie@example.com",
+                "subject": "Science",
+                "grade": "89%",
+                "contact": 7826399833
+              },
+              {
+                "id": "3",
+                "name": "Ayla Cornell",
+                "email": "ayls@example.com",
+                "subject": "Commerce",
+                "grade": "90%",
+                "contact": 8082637483
+              },
+              {
+                "id": "4",
+                "name": "Leo Gillespie",
+                "email": "leo@example.com",
+                "subject": "Commerce",
+                "grade": "85%",
+                "contact": 9826346283
+              },
+              {
+                "id": "5",
+                "name": "Jennifer Hardy",
+                "email": "jennifer@example.com",
+                "subject": "Arts",
+                "grade": "96%",
+                "contact": 9826412365
+              }
+
+    ]
+}
