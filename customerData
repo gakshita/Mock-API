@@ -7,7 +7,14 @@
                 "email": "loulou@example.com",
                 "subject": "Science",
                 "grade": "92%",
-                "contact": 9826374833            
+                "contact": 9826374833,
+                "qualification":"Btech",
+                "city":"Jaipur",
+                "job_profile":"developer",
+                "experience":"1 year",
+                "salary":1000000,
+                "company_name":"JP Morgan"
+                     
               },
               {
                 "id": "2",
@@ -15,7 +22,13 @@
                 "email": "sophie@example.com",
                 "subject": "Science",
                 "grade": "89%",
-                "contact": 7826399833
+                "contact": 7826399833,
+                "qualification":"Btech",
+                "city":"Jaipur",
+                "job_profile":"developer",
+                "experience":"1 year",
+                "salary":1000000,
+                "company_name":"JP Morgan"
               },
               {
                 "id": "3",
@@ -23,7 +36,13 @@
                 "email": "ayls@example.com",
                 "subject": "Commerce",
                 "grade": "90%",
-                "contact": 8082637483
+                "contact": 8082637483,
+                "qualification":"Btech",
+                "city":"Jaipur",
+                "job_profile":"developer",
+                "experience":"1 year",
+                "salary":1000000,
+                "company_name":"JP Morgan"
               },
               {
                 "id": "4",
@@ -31,7 +50,13 @@
                 "email": "leo@example.com",
                 "subject": "Commerce",
                 "grade": "85%",
-                "contact": 9826346283
+                "contact": 9826346283,
+                "qualification":"Btech",
+                "city":"Jaipur",
+                "job_profile":"developer",
+                "experience":"1 year",
+                "salary":1000000,
+                "company_name":"JP Morgan"
               },
               {
                 "id": "5",
@@ -39,7 +64,13 @@
                 "email": "jennifer@example.com",
                 "subject": "Arts",
                 "grade": "96%",
-                "contact": 9826412365
+                "contact": 9826412365,
+                "qualification":"Btech",
+                "city":"Jaipur",
+                "job_profile":"developer",
+                "experience":"1 year",
+                "salary":1000000,
+                "company_name":"JP Morgan"
               }
 
     ]
