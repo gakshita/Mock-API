@@ -1,0 +1,90 @@
+{
+
+    "data" : [
+            {
+                "id": "1",
+                "name": "Lourdes Browning",
+                "email": "loulou@example.com",
+                "subject": "Science",
+                "grade": "92%",
+                "contact": 9826374833,
+                "qualification":"Btech",
+                "city":"Jaipur",
+                "job_profile":"developer",
+                "experience":"1 year",
+                "salary":1000000,
+                "company_name":"JP Morgan",
+                "assigned_to":"Rphie Louis",
+                "status": "Not Interested"
+              },
+              {
+                "id": "2",
+                "name": "Sophie Louise Hart",
+                "email": "sophie@example.com",
+                "subject": "Science",
+                "grade": "89%",
+                "contact": 7826399833,
+                "qualification":"Btech",
+                "city":"Jaipur",
+                "job_profile":"developer",
+                "experience":"1 year",
+                "salary":1000000,
+                "company_name":"JP Morgan",
+                "assigned_to":"Rphie Louis",
+                "status": "Interested"
+                
+              },
+              {
+                "id": "3",
+                "name": "Ayla Cornell",
+                "email": "ayls@example.com",
+                "subject": "Commerce",
+                "grade": "90%",
+                "contact": 8082637483,
+                "qualification":"Btech",
+                "city":"Jaipur",
+                "job_profile":"developer",
+                "experience":"1 year",
+                "salary":1000000,
+                "company_name":"JP Morgan",
+                "assigned_to":"Rphie Louis",
+                "status": "Not Interested"
+                
+              },
+              {
+                "id": "4",
+                "name": "Leo Gillespie",
+                "email": "leo@example.com",
+                "subject": "Commerce",
+                "grade": "85%",
+                "contact": 9826346283,
+                "qualification":"Btech",
+                "city":"Jaipur",
+                "job_profile":"developer",
+                "experience":"1 year",
+                "salary":1000000,
+                "company_name":"JP Morgan",
+                "assigned_to":"Rphie Louis",
+                "status": "Interested"
+                
+              },
+              {
+                "id": "5",
+                "name": "Jennifer Hardy",
+                "email": "jennifer@example.com",
+                "subject": "Arts",
+                "grade": "96%",
+                "contact": 9826412365,
+                "qualification":"Btech",
+                "city":"Jaipur",
+                "job_profile":"developer",
+                "experience":"1 year",
+                "salary":1000000,
+                "company_name":"JP Morgan",
+                "assigned_to":"Rphie Louis",
+                "status": "Interested"
+                
+              }
+
+    ]
+}
